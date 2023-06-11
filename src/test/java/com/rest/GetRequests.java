@@ -1,4 +1,4 @@
-package com.localhost.get;
+package com.rest;
 
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
